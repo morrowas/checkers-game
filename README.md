@@ -1,4 +1,4 @@
-# portfolio-project
+# Checkers Game Portfolio Project
 
 For this project you will write a class called Checkers that allows two people to play the game of Checkers. This is a variation of the original Checkers game with modified rules. 
 Read about the Game rules in Checkers.pdf
